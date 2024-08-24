@@ -18,7 +18,7 @@ Running the Webpage:
     node server.js
 2. Once the server is running, you should see a message indicating that the server is running on a specific port (e.g., Server running on port 3000).
 3. Open a web browser and navigate to the following URL to get to the Home Page:
-    http://localhost:3000/home.html
+    http://localhost:3000/index.html
 
 License:
 This project is licensed under the MIT License.
